@@ -7,7 +7,7 @@
 
 ## Challenge Summary
 ## Part 1 - Identify the Number of Retiring Employees by Title
-First
+We have excluded 
 
 ![]
 
