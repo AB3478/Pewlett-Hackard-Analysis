@@ -5,7 +5,7 @@
 
 ![](https://github.com/AB3478/Pewlett-Hackard-Analysis/blob/92842ec2240c56c59a540caf02ed6ca3edff7637/Resources/EmployeeDB.png)
 
-## Challenge Summary
+## Challenge Results
 ## Part 1 - Identify the Number of Retiring Employees by Title
 
 - A total of 90,399 current employees are eligible for retirement. To determine this number, the list of employees was narrowed to those born between 1 January 1952 and 31 December 1955. A query was then written and executed that contained the employee number, first and last names, and most recent title. A sample of those employees is provided below:
@@ -18,7 +18,15 @@
 
 ## Part 2 - Identify the Employees Eligible for the Mentorship Program
 
-- Approximately 1,550 employees are eligible to participate in the company’s mentorship program. The following table includes a sample of those employees:
+- Approximately 1,550 employees are eligible to participate in the company’s mentorship program. 
+
+- This pool of candidates was narrowed further for those current employees born between 1 January 1965 and 31 December 1965. The following table includes a sample of those employees:
 
 ![]( https://github.com/AB3478/Pewlett-Hackard-Analysis/blob/c1188a9d52a0997f5d97fa59c33d069cda35c5b8/Resources/Mentorship_Eligibility.png)
 
+## Challenge Summary
+
+#### Pewlett Hackard has several thousand (90,399) employees eligible for retirement in the near future and will need to make plans in order to mitigate the impact of those company departures. The development of the mentorship program is a great step in helping retain institutional knowledge and expertise. Pewlett Hackard is well positioned to train the next cadre of leaders and senior employees with nearly 1,550 employees eligible to participate as mentors.
+
+-	The total count of retirement eligible employees per department may be a helpful resource for allotting mentoring resources. The table below highlights most of the  employees will be departing from Development and Production.
+![](
