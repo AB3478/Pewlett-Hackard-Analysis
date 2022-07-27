@@ -28,6 +28,7 @@
 
 #### Pewlett Hackard has several thousand (90,399) employees eligible for retirement in the near future and will need to make plans in order to mitigate the impact of those company departures. The development of the mentorship program is a great step in helping retain institutional knowledge and expertise. Pewlett Hackard is well positioned to train the next cadre of leaders and senior employees with nearly 1,550 employees eligible to participate as mentors.
 
--	The total count of retirement eligible employees per department may be a helpful resource for allotting mentoring resources. The table below highlights most of the  employees will be departing from Development and Production.
+-	The total count of retirement eligible employees per department may be a helpful resource for allotting mentoring resources. The table below highlights most of the  employees will be departing from Development and Production. The company may want to focus on these departments to ensure continuity of operations.
 
+![](https://github.com/AB3478/Pewlett-Hackard-Analysis/blob/b7ab3c2e368c9d185e7d23e5e3d33e92f08f90fa/Resources/Retirements_by_Dept.png)
 ![](https://github.com/AB3478/Pewlett-Hackard-Analysis/blob/12dadcfbe93bc6fdb2fb0befca576a28a437fd59/Resources/Mentor%20Dept%20Count.png)
