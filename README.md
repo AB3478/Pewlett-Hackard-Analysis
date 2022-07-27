@@ -8,15 +8,17 @@
 ## Challenge Summary
 ## Part 1 - Identify the Number of Retiring Employees by Title
 
-- A total of 499,996 current employees are eligible for retirement. To determine this number, the list of employees was narrowed to those born between 1 January 1952 and 31 December 1955. A query was then written and executed that contained the employee number, first and last names, and most recent title. A sample of those employees is included below:
+- A total of 90,399 current employees are eligible for retirement. To determine this number, the list of employees was narrowed to those born between 1 January 1952 and 31 December 1955. A query was then written and executed that contained the employee number, first and last names, and most recent title. A sample of those employees is provided below:
 
 ![]( https://github.com/AB3478/Pewlett-Hackard-Analysis/blob/c1188a9d52a0997f5d97fa59c33d069cda35c5b8/Resources/Unique_Titles.png) 
 
--	A query was then run to determine the the titles filled by employees who are retiring. The largest eligible groups are senior engineers and senior staff. Below is the complete list:
+-	A query was then run to determine the titles of retirement eligible employees. The largest eligible groups are senior engineers and senior staff. Below is the complete list:
 
 ![]( https://github.com/AB3478/Pewlett-Hackard-Analysis/blob/c1188a9d52a0997f5d97fa59c33d069cda35c5b8/Resources/Retiring_Titles.png) 
 
 ## Part 2 - Identify the Employees Eligible for the Mentorship Program
+
+- Approximately 1,550 employees are eligible to participate in the company’s mentorship program. The following table includes a sample of those employees:
 
 ![]( https://github.com/AB3478/Pewlett-Hackard-Analysis/blob/c1188a9d52a0997f5d97fa59c33d069cda35c5b8/Resources/Mentorship_Eligibility.png)
 
