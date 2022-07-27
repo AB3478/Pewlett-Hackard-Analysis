@@ -35,4 +35,4 @@
 
 -	One additional search the company may want to keep an eye on is the Department managers and their corresponding retirement dates. Fortunately for Pewlett Hackard, none of the current department heads are retiring. The table below searched each department manager employee number with eligible mentor employee numbers.
 
-![](
+![](https://github.com/AB3478/Pewlett-Hackard-Analysis/blob/fbff2cbbef8b5cb5bd80568793e291792cf50e6c/Resources/Dept_Managers.png)
