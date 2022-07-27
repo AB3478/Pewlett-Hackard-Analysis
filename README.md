@@ -24,7 +24,7 @@
 
 ![](https://github.com/AB3478/Pewlett-Hackard-Analysis/blob/c1188a9d52a0997f5d97fa59c33d069cda35c5b8/Resources/Mentorship_Eligibility.png)
 
-## Challenge Summary
+## Part 3 - Challenge Summary
 
 #### Pewlett Hackard has several thousand (90,399) employees eligible for retirement in the near future and will need to make plans in order to mitigate the impact of those company departures. The development of the mentorship program is a great step in helping retain institutional knowledge and expertise. Pewlett Hackard is well positioned to train the next cadre of leaders and senior employees with nearly 1,550 employees eligible to participate as mentors.
 
