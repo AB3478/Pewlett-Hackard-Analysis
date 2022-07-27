@@ -20,7 +20,7 @@
 
 - Approximately 1,550 employees are eligible to participate in the company’s mentorship program. 
 
-- This pool of candidates was narrowed further for those current employees born between 1 January 1965 and 31 December 1965. The following table includes a sample of those employees:
+- This pool of candidates was narrowed to include only those current employees born between 1 January 1965 and 31 December 1965. The following table highlights a sample of those employees:
 
 ![](https://github.com/AB3478/Pewlett-Hackard-Analysis/blob/c1188a9d52a0997f5d97fa59c33d069cda35c5b8/Resources/Mentorship_Eligibility.png)
 
